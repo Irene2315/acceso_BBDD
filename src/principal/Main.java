@@ -58,7 +58,7 @@ public class Main {
 		e.printStackTrace();
 	}
 		
-		
+	scan.close();	
 	}	
 
 }
